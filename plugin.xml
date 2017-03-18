@@ -26,7 +26,7 @@
     </config-file>
     <header-file src="src/ios/CDVImageEditor.h"/>
     <source-file src="src/ios/CDVImageEditor.m"/>
-    <resource-file src="src/ios/AdobeCreativeSDKFrameworks/AdobeCreativeSDKImage.framework/Versions/A/Resources/AdobeCreativeSDKImageResources.bundle"/>
+    <resource-file src="src/ios/AdobeCreativeSDKFrameworks/AdobeCreativeSDKImage.framework/AdobeCreativeSDKImageResources.bundle"/>
     <framework src="src/ios/AdobeCreativeSDKFrameworks/AdobeCreativeSDKImage.framework" custom="true"/>
     <framework src="MobileCoreServices.framework"/>
     <framework src="libc++.dylib"/>
